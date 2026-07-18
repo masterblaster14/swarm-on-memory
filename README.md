@@ -1,4 +1,4 @@
-# Swarm on Bourdon
+# Swarm on Memory
 
 Five AI agents work a developer ticket **concurrently**, coordinating through
 **one shared memory layer only** — [Bourdon](https://github.com/getbourdon/bourdon),
