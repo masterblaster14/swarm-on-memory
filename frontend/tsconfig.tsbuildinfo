@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/usestream.ts","./src/voice.ts","./src/components/ablation.tsx","./src/components/agentpanels.tsx","./src/components/memoryinspector.tsx","./src/components/preferences.tsx","./src/components/querybox.tsx","./src/components/results.tsx","./src/components/ticketinput.tsx"],"version":"5.9.3"}
